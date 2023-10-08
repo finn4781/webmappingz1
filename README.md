@@ -14,14 +14,6 @@ This is a static website with an interactive map embedded. This site has about, 
 ## How to use
 After cloning this project on your local machine, go to mapbox.com, create an account, a get a token. Open the main file "App.vue" find this variable "mapboxgl.accessToken" and paste your token there.
 
-## Not a programmer?
-I'm here to assist you in creating this website or tailoring it to suit your requirements; just get in touch with me.
-
-## Contact
-**Finn**
-
-finprogrammer@mailfence.com
-
 ## License
 
 [The Unlicense](https://unlicense.org/) 
